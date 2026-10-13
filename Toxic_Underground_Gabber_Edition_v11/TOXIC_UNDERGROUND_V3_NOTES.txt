@@ -1,0 +1,4 @@
+Toxic Underground - Gabber Edition v3
+Based on the approved greener v2 palette.
+All remaining PNG assets received a muted green treatment on neutral pixels while preserving vivid gameplay colors and alpha transparency.
+Original folder layout maintained.
